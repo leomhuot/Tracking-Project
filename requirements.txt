@@ -5,3 +5,4 @@ gunicorn
 pyotp
 gspread
 oauth2client
+psycopg2-binary
